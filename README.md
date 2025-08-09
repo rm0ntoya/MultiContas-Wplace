@@ -28,7 +28,7 @@ Com a extensão instalada, você tem duas opções:
 
 ### Método 1: Instalação Automática (Recomendado)
 
-1.  Neste repositório do GitHub, encontre o arquivo do script (geralmente com o nome `script.user.js` ou similar).
+1.  Neste repositório do GitHub, encontre o arquivo do script (script.js).
 2.  Clique no botão **"Raw"** no topo do visualizador de código.
 3.  O Tampermonkey irá detectar o script automaticamente e abrirá uma nova aba para a instalação.
 4.  Apenas clique em **"Instalar"** e pronto! O script será atualizado automaticamente no futuro.
@@ -43,5 +43,5 @@ Se o método automático falhar, você pode adicionar o script manualmente:
 
 ## 📄 Créditos
 
-* **Desenvolvimento da Lógica Principal:** Ruan Pablo
-* **Interface Gráfica e Funcionalidades Adicionais:** Gemini
+* **Desenvolvimento da Lógica Principal:** Ruan Pablo ( @rp.xyz )
+
