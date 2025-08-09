@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Remover Chave 'lp' - wplace.live
+// @name         MultiContas - wplace.live
 // @namespace    http://tampermonkey.net/
 // @version      2025-08-08.3
 // @description  Remove a chave 'lp' do localStorage no site wplace.live a cada 3 segundos.
